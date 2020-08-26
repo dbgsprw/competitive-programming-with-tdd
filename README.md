@@ -17,3 +17,8 @@
 
 [Test](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/test/kotlin/io/github/dbgsprw/programmers/TestConvertParenthesis.kt)
 & [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/convertParenthesis/Solution.kt)
+
+### [3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+[Test](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/test/kotlin/io/github/dbgsprw/programmers/TestLockAndKey.kt)
+& [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/lockAndKey/Solution.kt)
