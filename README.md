@@ -22,3 +22,8 @@
 
 [Test](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/test/kotlin/io/github/dbgsprw/programmers/TestLockAndKey.kt)
 & [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/lockAndKey/Solution.kt)
+
+### [4. 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+
+[Test](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/test/kotlin/io/github/dbgsprw/programmers/TestSearchLyrics.kt)
+& [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/searchLyrics/Solution.kt)
