@@ -31,4 +31,4 @@
 ### [5. 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
 
 [Test](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/test/kotlin/io/github/dbgsprw/programmers/TestPillarAndBeam.kt)
-& [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/pullarAndBeam/Solution.kt)
+& [Code](https://github.com/dbgsprw/competitive-programming-with-tdd/blob/master/src/main/kotlin/io/github/dbgsprw/programmers/pillarAndBeam/Solution.kt)
